@@ -171,10 +171,6 @@ footer img {
         justify-content: center;
     }
     .pai {
-        align-items: center;
-        flex-direction: column;
-    }
-    .pai div {
         width: 320px;
         height: 500px;
         margin: 10px 2px 10px 2px;
@@ -183,7 +179,7 @@ footer img {
         flex-direction: column;
     }    
     .pai .info {
-        font-size: 20px;
+        font-size: 10px;
     }
     .pai h3 {
         font-size: 25px;
